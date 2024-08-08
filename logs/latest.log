@@ -1,0 +1,822 @@
+[23:00:39] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[23:00:39] [ForkJoinPool-1-worker-2/WARN]: Mod geophilic uses the version v2.2.0-mc1.20u1.20.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v2'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:00:40] [ForkJoinPool-1-worker-1/WARN]: Mod dev_isxander_libsdl4j uses the version 3.693c75e-36 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '693c75e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:00:40] [ForkJoinPool-1-worker-11/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 12
+[23:00:40] [ForkJoinPool-1-worker-11/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:00:40] [ForkJoinPool-1-worker-11/WARN]: The mod "luna" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 10 column 14
+- Unsupported root entry "incompatible" at line 34 column 19
+[23:00:40] [ForkJoinPool-1-worker-1/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:00:40] [ForkJoinPool-1-worker-11/WARN]: The mod "necronomicon" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 10 column 14
+[23:00:40] [ForkJoinPool-1-worker-2/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:00:40] [ForkJoinPool-1-worker-5/WARN]: Mod charm uses the version forked-6.0.22 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'forked'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:00:40] [main/WARN]: Warnings were found!
+ - Mod 'Debugify' (debugify) 1.20.1+2.0 recommends any 3.x version of yet-another-config-lib, which is missing!
+	 - You should install any 3.x version of yet-another-config-lib for the optimal experience.
+[23:00:40] [main/INFO]: Loading 380 mods:
+	- additionalstructures 4.2.1
+	- advancednetherite 2.1.0-1.20.1
+	- adventurez 1.4.20
+	- alternate-current 1.8.0-beta.4
+	- amendments 1.20-1.1.31
+	   \-- mixinsquared 0.1.1
+	- animal_feeding_trough 1.1.0+1.20.1
+	- another_furniture 1.20.1-3.0.1
+	- architectury 9.2.14
+	- ash_api 3.0.2+1.20.1
+	- athena 3.1.2
+	- autochefsdelight 1.0.4+fabric
+	- autoslabs 1.1.3
+	   |-- advanced_runtime_resource_pack 0.8.0
+	   \-- statement 4.2.8+1.14.4-1.20.1
+	        |-- kanos_config 0.4.1+1.14.4-1.19.4
+	        \-- statement_vanilla_compatibility 1.0.1+1.16.5-1.17
+	- backpacked 2.2.7
+	- balm-fabric 7.2.2
+	- barteringstation 8.0.0
+	- bcc 4.0.8
+	- bclib 3.0.14
+	   \-- wunderlib 1.1.5
+	- better-trim-tooltips 1.0.1
+	- betteradvancements 0.3.2.161
+	- betterchunkloading 1.20.1-4.2
+	- betterdungeons 1.20-Fabric-4.0.4
+	   \-- org_reflections_reflections 0.10.2
+	- betterend 4.0.11
+	- betterend-crashed-ships 1.0.0
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betterfpsdist 1.20.1-4.3
+	- betterjungletemples 1.20-Fabric-2.0.5
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- betternether 9.0.10
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- betterstats 3.9.7+fabric-1.20.1
+	   \-- tcdcommons 3.9.6+fabric-1.20.1
+	- betterstrongholds 1.20-Fabric-4.0.3
+	- bettertridents 8.0.1
+	- betterwitchhuts 1.20-Fabric-3.0.3
+	- biomemusic 1.20.1-2.3
+	- boatbreakfix 1.0.2
+	- bookshelf 20.1.10
+	- bosses_of_mass_destruction 1.7.5-1.20.1
+	   |-- maelstrom_library 1.6.1-1.20
+	   \-- multipart_entities 1.5-1.20
+	- bountiful 6.0.3+1.20.1
+	- bygonenether 1.3.2
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- carryon 2.1.2.7
+	- charm forked-6.0.22
+	   |-- charmony 6.15.1
+	   |-- com_moandjiezana_toml_toml4j 0.7.2
+	   \-- mixinextras 0.3.6
+	- charmofundying 6.5.0+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- chipped 3.0.6
+	- chunksending 1.20.1-2.8
+	- clientcrafting 1.20.1-1.8
+	- cloth-config 11.1.118
+	   \-- cloth-basic-math 0.6.1
+	- clumps 12.0.0.4
+	- collective 7.61
+	- comforts 6.3.5+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- configureddefaults 8.0.1
+	- connectivity 1.20.1-5.5
+	- controlify 2.0.0-beta.10+1.20.1
+	   |-- dev_isxander_libsdl4j 3.693c75e-36
+	   |-- org_hid4java_hid4java 0.7.0
+	   |-- org_quiltmc_parsers_gson 0.3.0
+	   \-- org_quiltmc_parsers_json 0.3.0
+	- coroutil 1.20.1-1.3.7
+	- crawl 0.12.0
+	   \-- mm 2.3
+	- cristellib 1.1.5
+	   \-- blue_endless_jankson 1.2.3
+	- culturaldelights 1.0.0+1.20.1
+	   |-- mm 2.3
+	   \-- terraform-wood-api-v1 7.0.1
+	- cupboard 1.20.1-2.6
+	- cutthrough 8.0.2
+	- dawn 5.0.0
+	   |-- terraform-shapes-api-v1 7.0.1
+	   \-- terraform-wood-api-v1 7.0.1
+	- debugify 1.20.1+2.0
+	- decorative_blocks 4.1.3
+	- deeperdarker 1.2.6
+	   \-- customportalapi 0.0.1-beta64-1.20
+	- deuf_refabricated 1.1.0
+	- diagonalfences 8.1.4
+	   \-- diagonalblocks 8.0.5
+	- dimensionalsyncfixes 1.20.1-0.0.2
+	- dragonloot 1.1.4
+	- drippyloadingscreen 3.0.2
+	- dungeons_arise 2.1.58
+	- dynamictrim 1.4.1
+	   \-- mixinsquared 0.1.1
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- edenring 20.1.19
+	- elytraslot 6.3.0+1.20.1
+	- epherolib 1.2.0
+	- euphoria_patcher 0.3.0-fabric
+	   \-- io_sigpipe_jbsdiff 1.0
+	- everycomp 1.20-2.6.55
+	   \-- porting_lib_tags 3.0
+	- expandeddelight 0.3.1
+	   \-- omega-config 1.4.0+1.20.1
+	- explorations 1.20.1-1.5.2
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.11.0+kotlin.2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.24.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.6.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.6.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.6.3
+	- fabricloader 0.15.11
+	- fabricseasonsrecipefix 1.0.0
+	- fallingtree 4.3.4
+	- fancymenu 3.2.3
+	   |-- com_github_keksuccino_japng 0.5.3
+	   \-- com_github_rtyley_animated-gif-lib-for-java animated-gif-lib-1.7
+	- farmersdelight 1.20.1-2.1.1+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_accessors 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_base 2.3.4+1.20.1
+	   |    |-- porting_lib_attributes 2.3.4+1.20.1
+	   |    |-- porting_lib_common 2.3.4+1.20.1
+	   |    |-- porting_lib_core 2.3.4+1.20.1
+	   |    |-- porting_lib_entity 2.3.4+1.20.1
+	   |    |-- porting_lib_fluids 2.3.4+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.4+1.20.1
+	   |    |-- porting_lib_transfer 2.3.4+1.20.1
+	   |    |-- porting_lib_utility 2.3.4+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_client_events 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_config 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_extensions 2.3.4+1.20.1
+	   |    |-- porting_lib_attributes 2.3.4+1.20.1
+	   |    |-- porting_lib_common 2.3.4+1.20.1
+	   |    |-- porting_lib_core 2.3.4+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_lazy_registration 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_loot 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_networking 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_recipe_book_categories 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   |-- porting_lib_registries 2.3.4+1.20.1
+	   |    \-- porting_lib_core 2.3.4+1.20.1
+	   \-- porting_lib_tool_actions 2.3.4+1.20.1
+	        \-- porting_lib_core 2.3.4+1.20.1
+	- farmersknives 3.2
+	- fastasyncworldsave 1.20.1-1.9
+	- fastpaintings 1.20-1.2.7
+	- ferritecore 6.0.1
+	- forgeconfigapiport 8.0.0
+	- forgeconfigscreens 8.0.2
+	- formations 1.0.2
+	- formationsnether 1.0.4
+	- formationsoverworld 1.0.3
+	- framework 0.6.16
+	   \-- org_javassist_javassist 3.29.2-GA
+	- friendsandfoes 2.0.10
+	- frostiful 1.0.9
+	   \-- mm 2.3
+	- ftblibrary 2001.2.2
+	- ftbquests 2001.4.5
+	   \-- team_reborn_energy 3.0.0
+	- ftbteams 2001.3.0
+	- ftbxmodcompat 2.1.1
+	- fullstackwatchdog 1.0.1+1.19.2-fabric
+	- fwaystones 3.1.3+mc1.20
+	- fzzy_config 0.3.3+1.20.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- geckolib 4.4.4
+	   \-- com_eliotlash_mclib_mclib 20
+	- geophilic v2.2.0-mc1.20u1.20.2
+	- goblintraders 1.9.3
+	- gpumemleakfix 1.20.1-1.8
+	- grassoverhaul 23.10.11
+	- guardvillagers 2.0.9-1.20.1
+	- handcrafted 3.0.6
+	- hearth_and_home 1.20.1-2.0.3
+	- hearths 1.0.0
+	- hybrid-aquatic 1.3.2
+	   \-- reach-entity-attributes 2.4.0
+	- iceberg 1.1.18
+	- illagerinvasion 8.0.5
+	   \-- extensibleenums 7.0.1
+	- inmis 2.7.2-1.20.1
+	- inventorymanagement 1.3.1
+	- itemfilters 2001.1.0-build.59
+	- jade 11.9.2+fabric
+	- jamlib 0.6.1+1.20.x
+	- java 21
+	- kambrik 6.1.1+1.20.1
+	- keybind_fix 1.0.0
+	- kiwi 11.6.2
+	- kleeslabs 15.0.0
+	- konkrete 1.8.1
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- leavesbegone 8.0.0
+	- letmedespawn 1.2.0
+	- lithium 0.11.2
+	- lmft 1.0.2+1.20
+	- logbegone 1.0.8
+	- lootintegrations 1.20.1-3.7
+	- luna 1.0.0
+	- magnumtorch 8.0.2
+	- melody 1.0.3
+	- memoryleakfix 1.1.5
+	- memorysettings 1.20.1-5.3
+	- midnightlib 1.4.1
+	- minecraft 1.20.1
+	- mixintrace 1.1.1+1.17
+	- modernfix 5.17.0+mc1.20.1
+	- modpack-update-checker 0.12.2
+	   \-- mpuc_lavendermd 0.1.1
+	- moonlight 1.20-2.11.30
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mru 0.4.2+1.20.1
+	- mythic_charms 0.7.0
+	- naturalist 4.0.3
+	- naturescompass 1.20.1-2.2.3-fabric
+	- necronomicon 1.4.2
+	- neruina 2.0.0-beta.10
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.17.0
+	   |-- com_fasterxml_jackson_core_jackson-core 2.17.0
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.17.0
+	   |-- org_apache_maven_maven-artifact 3.8.1
+	   \-- org_kohsuke_github-api 1.318
+	- netherchested 8.0.3
+	   \-- puzzlesapi 8.1.5
+	        \-- puzzlesaccessapi 8.0.9
+	- netherportalfix 13.0.1
+	- nethersdelight 1.20.1-4.1.1
+	- nightconfigfixes 8.0.0
+	- nochatreports 1.20.1-v2.2.2
+	   |-- fabric-rendering-v1 3.0.6+b3afc78b82
+	   \-- fabric-screen-api-v1 2.0.6+b3afc78b82
+	- oceansdelight fdrf-fabric-1.0.2-1.20
+	- openpartiesandclaims 0.22.0
+	- owo 0.11.2+1.20
+	- packetfixer 1.4.0
+	- paintings 11.0.0.1
+	- patchouli 1.20.1-84-FABRIC
+	   \-- fiber 0.23.0-2
+	- paxi 1.20-Fabric-4.0
+	- philipsruins 1.20.1
+	- pickupnotifier 8.0.0
+	- ping-wheel 1.8.0
+	- polymorph 0.49.5+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- promenade 4.1.1
+	   \-- biolith 1.0.0-alpha.8
+	        \-- terraform-surfaces-api-v1 7.0.1
+	- puzzleslib 8.1.20
+	- quartzelv 2.2.7+1.20.4
+	- reacharound 1.1.2
+	- recipeessentials 1.20.1-3.4
+	- redirector 1.20.1-4.4.0
+	- repurposed_structures 7.1.15+1.20.1-fabric
+	- resourcefullib 2.1.25
+	   |-- com_teamresourceful_bytecodecs 1.0.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 3.2.3+1.19.x-1.20.1-fabric
+	- roughlyenoughitems 12.1.725
+	   \-- error_notifier 1.0.9
+	- sawmill 1.20-1.4.1
+	- seasons 2.3+1.20
+	- seasonsdelightcompat 1.0-1.3.9
+	- seasonsextras 1.2-BETA+1.20
+	- serverbrowser 1.1.2
+	- smarterfarmers 1.20-1.8.2
+	- smoothchunk 1.20.1-3.6
+	- snowrealmagic 10.4.3
+	- snowyspirit 1.20-3.0.6
+	- sound_physics_remastered 1.20.1-1.1.2
+	- spark 1.10.53
+	- spawners_plus 3.0-1.20.1
+	- starlight 1.1.2+fabric.dbc156f
+	- stoneworks 8.0.0
+	- structureessentials 1.20.1-3.3
+	- supplementaries 1.20-2.8.11
+	   \-- mixinsquared 0.1.1
+	- suppsquared 1.20-1.1.14
+	- t_and_t 1.12
+	- talkbubbles 1.0.8
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- the_bumblezone 7.4.0+1.20.1-fabric
+	   \-- noindium 1.1.0+1.20
+	- thermoo 2.3.1
+	- thermoo-patches 1.0.1
+	- toms_storage 1.6.6
+	- toms_trading_network 0.2.4
+	- toolstats 16.0.8
+	- tradingpost 8.0.2
+	- transparent 8.0.1+1.20.1
+	- trinkets 3.7.2
+	- twigs 3.1.0
+	- universal-graves 3.0.1+1.20.1
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |-- placeholder-api 2.1.3+1.20.1
+	   |-- polymer-core 0.5.19+1.20.1
+	   |    |-- polymer-networking 0.5.19+1.20.1
+	   |    |    \-- polymer-common 0.5.19+1.20.1
+	   |    |         \-- packet_tweaker 0.4.0+1.19.4
+	   |    \-- polymer-registry-sync-manipulator 0.5.19+1.20.1
+	   |-- polymer-resource-pack 0.5.19+1.20.1
+	   |    \-- polymer-common 0.5.19+1.20.1
+	   |         \-- packet_tweaker 0.4.0+1.19.4
+	   |-- polymer-virtual-entity 0.5.19+1.20.1
+	   |    \-- polymer-common 0.5.19+1.20.1
+	   |         \-- packet_tweaker 0.4.0+1.19.4
+	   |-- predicate-api 0.2.1+1.20.1
+	   |-- server_translations_api 2.0.0+1.20
+	   |    \-- packet_tweaker 0.4.0+1.19.4
+	   \-- sgui 1.2.2+1.20
+	- universal_ores 1.5.2
+	- variantcraftingtables 6.4
+	- veinmining 1.4.1+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- villagernames 7.3
+	- villagersplus 3.1
+	- villagesandpillages 1.0.0
+	- visualworkbench 8.0.0
+	- voidtotem 3.0.1
+	- voidz 1.0.11
+	- watut 1.20.1-1.1.1
+	- winterly 0.9.3+1.20
+	- xaerominimap 24.1.1
+	- xaeroworldmap 1.38.4
+	- xp_storage 1.5.3+1.20.1
+	- xp_storage_trinkets 1.0+1.20.1
+	- yet_another_config_lib_v3 3.4.4+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.10.0
+	   |-- com_twelvemonkeys_common_common-io 3.10.0
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	   \-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	- ysns 1.0.5
+	- yungsapi 1.20-Fabric-4.0.5
+	- yungsbridges 1.20-Fabric-4.0.3
+	- yungsmenutweaks 1.20.1-Fabric-1.0.2
+[23:00:40] [main/INFO]: Applying default files...
+[23:00:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/nix/store/h3bnncyldjsv7j6hdvc9ig5fdhvdp6jp-fabric-server-launch.jar-fabric-0.15.11-1.20.1 Service=Knot/Fabric Env=SERVER
+[23:00:40] [main/INFO]: Compatibility level set to JAVA_17
+[23:00:40] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/INFO]: Preloading Debugify
+[23:00:40] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[23:00:40] [main/WARN]: Reference map 'lmft-fabric-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/INFO]: Loaded configuration file for ModernFix 5.17.0+mc1.20.1: 55 options available, 0 override(s) found
+[23:00:40] [main/INFO]: Applying Nashorn fix
+[23:00:40] [main/WARN]: Reference map 'oceansdelight-refmap.json' for oceansdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'packetfixer-fabric-fabric-refmap.json' for packetfixer-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'philipsruins-refmap.json' for philipsruins.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'smarterfarmers-fabric-refmap.json' for smarterfarmers.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'suppsquared-fabric-refmap.json' for suppsquared.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Reference map 'suppsquared-common-refmap.json' for suppsquared-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:00:40] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[23:00:40] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[23:00:40] [main/WARN]: Error loading class: net/minecraft/class_756 (java.lang.ClassNotFoundException: net/minecraft/class_756)
+[23:00:40] [main/WARN]: @Mixin target net.minecraft.class_756 was not found bygonenether.mixins.json:RenderModdedShieldMixin from mod bygonenether
+[23:00:41] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[23:00:41] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found inmis.mixins.json:client.PlayerEntityFeatureMixin from mod inmis
+[23:00:41] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[23:00:41] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[23:00:41] [main/WARN]: Error loading class: net/minecraft/class_436 (java.lang.ClassNotFoundException: net/minecraft/class_436)
+[23:00:41] [main/WARN]: @Mixin target net.minecraft.class_436 was not found luna.mixins.json:LANMixin from mod luna
+[23:00:41] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[23:00:41] [main/WARN]: You are using connectivity for fix "Badly compressed packet - size of " + X + " is larger than protocol maximum of 8388608" if you have and issue with that delete connectivity.
+[23:00:41] [main/WARN]: Mixin 'block.packet.ChunkDeltaUpdateS2CPacketMixin' from 'polymer-core' was disabled by Connectivity Mod (connectivity). Reason: Compat. This might cause issues and isn't generally supported!
+[23:00:41] [main/INFO]: Loaded config for: recipeessentials.json
+[23:00:41] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/block/BuddingBushBlock (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/block/BuddingBushBlock)
+[23:00:41] [main/WARN]: @Mixin target com.nhoryzon.mc.farmersdelight.block.BuddingBushBlock was not found seasonsdelightcompat.mixins.json:BuddingBushBlockMixin from mod seasonsdelightcompat
+[23:00:41] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/block/BuddingTomatoBlock (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/block/BuddingTomatoBlock)
+[23:00:41] [main/WARN]: @Mixin target com.nhoryzon.mc.farmersdelight.block.BuddingTomatoBlock was not found seasonsdelightcompat.mixins.json:BuddingTomatoBlockMixin from mod seasonsdelightcompat
+[23:00:41] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/block/MushroomColonyBlock (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/block/MushroomColonyBlock)
+[23:00:41] [main/WARN]: @Mixin target com.nhoryzon.mc.farmersdelight.block.MushroomColonyBlock was not found seasonsdelightcompat.mixins.json:MushroomColonyBlockMixin from mod seasonsdelightcompat
+[23:00:41] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/block/RiceCropBlock (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/block/RiceCropBlock)
+[23:00:41] [main/WARN]: @Mixin target com.nhoryzon.mc.farmersdelight.block.RiceCropBlock was not found seasonsdelightcompat.mixins.json:RiceCropBlockMixin from mod seasonsdelightcompat
+[23:00:41] [main/WARN]: Error loading class: com/nhoryzon/mc/farmersdelight/block/TomatoVineBlock (java.lang.ClassNotFoundException: com/nhoryzon/mc/farmersdelight/block/TomatoVineBlock)
+[23:00:41] [main/WARN]: @Mixin target com.nhoryzon.mc.farmersdelight.block.TomatoVineBlock was not found seasonsdelightcompat.mixins.json:TomatoVineBlockMixin from mod seasonsdelightcompat
+[23:00:41] [main/WARN]: Error loading class: net/minecraft/class_4267 (java.lang.ClassNotFoundException: net/minecraft/class_4267)
+[23:00:41] [main/WARN]: @Mixin target net.minecraft.class_4267 was not found serverbrowser.mixins.json:ServerSelectionMixin from mod serverbrowser
+[23:00:41] [main/WARN]: Error loading class: traben/entity_model_features/models/animation/EMFAnimationHelper (java.lang.ClassNotFoundException: traben/entity_model_features/models/animation/EMFAnimationHelper)
+[23:00:41] [main/WARN]: Error loading class: net/minecraft/class_4224 (java.lang.ClassNotFoundException: net/minecraft/class_4224)
+[23:00:41] [main/WARN]: @Mixin target net.minecraft.class_4224 was not found sound_physics_remastered.mixins.json:ChannelAccessor from mod sound_physics_remastered
+[23:00:41] [main/INFO]: Loaded config for: structureessentials.json
+[23:00:41] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[23:00:41] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[23:00:41] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[23:00:41] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[23:00:41] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[23:00:41] [main/INFO]: I used the json to destroy the json
+[23:00:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[23:00:42] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$fak000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[23:00:42] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
+[23:00:42] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mdbf0597$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[23:00:42] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mdbf0597$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[23:00:42] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[23:00:42] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[23:00:42] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[23:00:42] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[23:00:42] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[23:00:43] [main/WARN]: Error loading class: org/spongepowered/asm/synthetic/args/Args$3 (java.lang.ClassNotFoundException: org/spongepowered/asm/synthetic/args/Args$3)
+[23:00:43] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonBaseBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_block.PistonBlockMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[23:00:43] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonBaseBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_block.PistonBlockMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[23:00:43] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.RedStoneWireBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.redstone_wire.RedstoneWireBlockMixin from mod lithium->@Redirect::removeAllocation1()[Lnet/minecraft/class_2350; with priority 1000
+[23:00:43] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.RedStoneWireBlockMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.redstone_wire.RedstoneWireBlockMixin from mod lithium->@Redirect::removeAllocation2()[Lnet/minecraft/class_2350; with priority 1000
+[23:00:43] [main/WARN]: Statement API's logging has been disabled by AutoSlabs!
+[23:00:44] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
+[23:00:45] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[23:00:45] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[23:00:45] [main/INFO]: Vanilla bootstrap took 2950 milliseconds
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.main to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.generator to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.blocks to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.items to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.biomes to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.mobs to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config betternether.recipes to auto sync (file hash)
+[23:00:45] [main/WARN]: [bclib] Recipe betternether:bone_block_bone_button only takes in a single item and should be shapeless
+[23:00:45] [main/INFO]: Hello world!
+[23:00:45] [main/INFO]: Loaded config amendments-common.json
+[23:00:45] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[23:00:45] [main/INFO]: Reflections took 31 ms to scan 2 urls, producing 2 keys and 35 values
+[23:00:45] [main/INFO]: Constructing common components for barteringstation:main
+[23:00:45] [main/INFO]: Better Compatibility Checker starting
+[23:00:45] [main/INFO]: Loading config file
+[23:00:45] [main/INFO]: Config file loaded
+[23:00:45] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[23:00:45] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[23:00:45] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[23:00:46] [main/INFO]: betterchunkloading mod initialized
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:00:46] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[23:00:46] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[23:00:46] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[23:00:46] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[23:00:46] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[23:00:46] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[23:00:46] [main/INFO]: Hello Fabric world!
+[23:00:46] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:00:46] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[23:00:46] [main/INFO]: betterfpsdist mod initialized
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:00:46] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 3 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:00:46] [main/INFO]: [betternether] =^..^=    BetterNether for 1.20    =^..^=
+[23:00:46] [main/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.state.CacheMixin from mod redirector->@Redirect::redirectSupportTypes()[Lnet/minecraft/class_5431; with priority 10, already redirected by modernfix-common.mixins.json:perf.cache_blockstate_cache_arrays.AbstractBlockStateCacheMixin from mod modernfix->@Redirect::getVoxelShapeValues()[Lnet/minecraft/class_5431; with priority 1000
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:00:46] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[23:00:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:00:46] [main/INFO]: Constructing common components for bettertridents:main
+[23:00:46] [main/INFO]: Loading common config for bettertridents
+[23:00:46] [Thread-2/INFO]: Reloading common config for bettertridents
+[23:00:46] [Thread-2/INFO]: Reloading common config for bettertridents
+[23:00:46] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[23:00:46] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[23:00:46] [main/INFO]: Biolith is initializing...
+[23:00:46] [main/INFO]: Enabling Biolith's TerraBlender compatibility layer.
+[23:00:46] [main/INFO]: biomemusic mod initialized
+[23:00:46] [main/INFO]: BoatBreakFix initialized
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[23:00:46] [main/INFO]: Common init
+[23:00:46] [main/INFO]: Bypassed Mojang DFU
+[23:00:46] [main/INFO]: Instantiating Mojang DFU
+[23:00:46] [main/ERROR]: No data fixer registered for bygonenether:netherite_bell
+[23:00:46] [main/INFO]: [CommonLoader] 7 classes to load for class svenhjol.charmony.common.CommonLoader
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Advancements
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ColoredGlints
+[23:00:46] [main/INFO]: [CommonLoader] Enabled CustomWood
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Diagnostics
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Recipes
+[23:00:46] [main/INFO]: [CommonLoader] Enabled VariantPistons
+[23:00:46] [main/INFO]: [CommonLoader] Enabled VariantWood
+[23:00:46] [main/INFO]: [CommonLoader] Running Diagnostics
+[23:00:46] [main/INFO]: [CommonLoader] Running VariantWood
+[23:00:46] [main/INFO]: [CommonLoader] Running Advancements
+[23:00:46] [main/INFO]: [CommonLoader] Running ColoredGlints
+[23:00:46] [main/INFO]: [CommonLoader] Running CustomWood
+[23:00:46] [main/INFO]: [CommonLoader] Running Recipes
+[23:00:46] [main/INFO]: [CommonLoader] Running VariantPistons
+[23:00:46] [main/INFO]: [CommonLoader] 69 classes to load for class svenhjol.charmony.common.CommonLoader
+[23:00:46] [main/INFO]: [CommonLoader] Enabled AerialAffinity
+[23:00:46] [main/INFO]: [CommonLoader] Enabled AmethystNoteBlock
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ArcanePurpur
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Atlases
+[23:00:46] [main/INFO]: [CommonLoader] Enabled AutoRestock
+[23:00:46] [main/INFO]: [CommonLoader] Enabled AzaleaWood
+[23:00:46] [main/INFO]: [CommonLoader] Enabled BatBuckets
+[23:00:46] [main/INFO]: [CommonLoader] Enabled BeaconsHealMobs
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Beekeepers
+[23:00:46] [main/INFO]: [CommonLoader] Enabled CampfiresBoostHealth
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Chairs
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ChorusTeleport
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ClearItemFrames
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Collection
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ColoredGlintSmithingTemplates
+[23:00:46] [main/INFO]: [CommonLoader] Enabled CopperPistons
+[23:00:46] [main/INFO]: [CommonLoader] Enabled CoralSeaLanterns
+[23:00:46] [main/INFO]: [CommonLoader] Enabled CoralSquids
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Core
+[23:00:46] [main/INFO]: [CommonLoader] Enabled DeepslateDungeons
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Echolocation
+[23:00:46] [main/INFO]: [CommonLoader] Enabled EnchantableHorseArmor
+[23:00:46] [main/INFO]: [CommonLoader] Enabled EndermitePowder
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraMobDrops
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraPortalFrames
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraRecipes
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraRepairs
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraStackables
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraStews
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtraTrades
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ExtractableEnchantments
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Firing
+[23:00:46] [main/INFO]: [CommonLoader] Enabled GrindableHorseArmor
+[23:00:46] [main/INFO]: [CommonLoader] Enabled HoverSorting
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ImprovedMineshafts
+[23:00:46] [main/INFO]: [CommonLoader] Enabled InventoryTidying
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Kilns
+[23:00:46] [main/INFO]: [CommonLoader] Enabled LongerSuspiciousEffects
+[23:00:46] [main/INFO]: [CommonLoader] Enabled LowerNoteblockPitch
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Lumberjacks
+[23:00:46] [main/INFO]: [CommonLoader] Enabled MakeSuspiciousBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Mooblooms
+[23:00:46] [main/INFO]: [CommonLoader] Enabled NearbyWorkstations
+[23:00:46] [main/INFO]: [CommonLoader] Enabled NoCropTrampling
+[23:00:46] [main/INFO]: [CommonLoader] Enabled NoPetDamage
+[23:00:46] [main/INFO]: [CommonLoader] Enabled OpenBothDoors
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ParrotsStayOnShoulder
+[23:00:46] [main/INFO]: [CommonLoader] Enabled PathConversion
+[23:00:46] [main/INFO]: [CommonLoader] Enabled PiglinsFollowGoldBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Enabled PigsFindMushrooms
+[23:00:46] [main/INFO]: [CommonLoader] Enabled PlayerPressurePlates
+[23:00:46] [main/INFO]: [CommonLoader] Enabled PotionOfRadiance
+[23:00:46] [main/INFO]: [CommonLoader] Enabled QuickReplant
+[23:00:46] [main/INFO]: [CommonLoader] Enabled RedstoneSand
+[23:00:46] [main/INFO]: [CommonLoader] Enabled RevivePets
+[23:00:46] [main/INFO]: [CommonLoader] Enabled ShulkerBoxDragDrop
+[23:00:46] [main/INFO]: [CommonLoader] Enabled SmoothGlowstone
+[23:00:46] [main/INFO]: [CommonLoader] Enabled SpawnerDrops
+[23:00:46] [main/INFO]: [CommonLoader] Enabled StorageBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Enabled StrongerAnvils
+[23:00:46] [main/INFO]: [CommonLoader] Enabled TorchflowersEmitLight
+[23:00:46] [main/INFO]: [CommonLoader] Enabled TotemOfPreserving
+[23:00:46] [main/INFO]: [CommonLoader] Enabled TotemsWorkFromInventory
+[23:00:46] [main/INFO]: [CommonLoader] Enabled UnlimitedRepairCost
+[23:00:46] [main/INFO]: [CommonLoader] Enabled VanillaWoodVariants
+[23:00:46] [main/INFO]: [CommonLoader] Enabled VillagersFollowEmeraldBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Woodcutters
+[23:00:46] [main/INFO]: [CommonLoader] Enabled Woodcutting
+[23:00:46] [main/INFO]: [CommonLoader] Running Woodcutters
+[23:00:46] [main/INFO]: [CommonLoader] Running AerialAffinity
+[23:00:46] [main/INFO]: [CommonLoader] Running AmethystNoteBlock
+[23:00:46] [main/INFO]: [CommonLoader] Running ArcanePurpur
+[23:00:46] [main/INFO]: [CommonLoader] Running Atlases
+[23:00:46] [main/INFO]: [CommonLoader] Running AutoRestock
+[23:00:46] [main/INFO]: [CommonLoader] Running AzaleaWood
+[23:00:46] [main/INFO]: [CommonLoader] Running BatBuckets
+[23:00:46] [main/INFO]: [CommonLoader] Running BeaconsHealMobs
+[23:00:46] [main/INFO]: [CommonLoader] Running Beekeepers
+[23:00:46] [main/INFO]: [CommonLoader] Running CampfiresBoostHealth
+[23:00:46] [main/INFO]: [CommonLoader] Running Chairs
+[23:00:46] [main/INFO]: [CommonLoader] Running ChorusTeleport
+[23:00:46] [main/INFO]: [CommonLoader] Running ClearItemFrames
+[23:00:46] [main/INFO]: [CommonLoader] Running Collection
+[23:00:46] [main/INFO]: [CommonLoader] Running ColoredGlintSmithingTemplates
+[23:00:46] [main/INFO]: [CommonLoader] Running CopperPistons
+[23:00:46] [main/INFO]: [CommonLoader] Running CoralSeaLanterns
+[23:00:46] [main/INFO]: [CommonLoader] Running CoralSquids
+[23:00:46] [main/INFO]: [CommonLoader] Running Core
+[23:00:46] [main/INFO]: [CommonLoader] Running DeepslateDungeons
+[23:00:46] [main/INFO]: [CommonLoader] Running Echolocation
+[23:00:46] [main/INFO]: [CommonLoader] Running EnchantableHorseArmor
+[23:00:46] [main/INFO]: [CommonLoader] Running EndermitePowder
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraMobDrops
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraPortalFrames
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraRecipes
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraRepairs
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraStackables
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraStews
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtraTrades
+[23:00:46] [main/INFO]: [CommonLoader] Running ExtractableEnchantments
+[23:00:46] [main/INFO]: [CommonLoader] Running Firing
+[23:00:46] [main/INFO]: [CommonLoader] Running GrindableHorseArmor
+[23:00:46] [main/INFO]: [CommonLoader] Running HoverSorting
+[23:00:46] [main/INFO]: [CommonLoader] Running ImprovedMineshafts
+[23:00:46] [main/INFO]: [CommonLoader] Running InventoryTidying
+[23:00:46] [main/INFO]: [CommonLoader] Running Kilns
+[23:00:46] [main/INFO]: [CommonLoader] Running LongerSuspiciousEffects
+[23:00:46] [main/INFO]: [CommonLoader] Running LowerNoteblockPitch
+[23:00:46] [main/INFO]: [CommonLoader] Running MakeSuspiciousBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Running Mooblooms
+[23:00:46] [main/INFO]: [CommonLoader] Running NearbyWorkstations
+[23:00:46] [main/INFO]: [CommonLoader] Running NoCropTrampling
+[23:00:46] [main/INFO]: [CommonLoader] Running NoPetDamage
+[23:00:46] [main/INFO]: [CommonLoader] Running OpenBothDoors
+[23:00:46] [main/INFO]: [CommonLoader] Running ParrotsStayOnShoulder
+[23:00:46] [main/INFO]: [CommonLoader] Running PathConversion
+[23:00:46] [main/INFO]: [CommonLoader] Running PiglinsFollowGoldBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Running PigsFindMushrooms
+[23:00:46] [main/INFO]: [CommonLoader] Running PlayerPressurePlates
+[23:00:46] [main/INFO]: [CommonLoader] Running PotionOfRadiance
+[23:00:46] [main/INFO]: [CommonLoader] Running QuickReplant
+[23:00:46] [main/INFO]: [CommonLoader] Running RedstoneSand
+[23:00:46] [main/INFO]: [CommonLoader] Running RevivePets
+[23:00:46] [main/INFO]: [CommonLoader] Running ShulkerBoxDragDrop
+[23:00:46] [main/INFO]: [CommonLoader] Running SmoothGlowstone
+[23:00:46] [main/INFO]: [CommonLoader] Running SpawnerDrops
+[23:00:46] [main/INFO]: [CommonLoader] Running StorageBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Running StrongerAnvils
+[23:00:46] [main/INFO]: [CommonLoader] Running TorchflowersEmitLight
+[23:00:46] [main/INFO]: [CommonLoader] Running TotemOfPreserving
+[23:00:46] [main/INFO]: [CommonLoader] Running TotemsWorkFromInventory
+[23:00:46] [main/INFO]: [CommonLoader] Running UnlimitedRepairCost
+[23:00:46] [main/INFO]: [CommonLoader] Running VanillaWoodVariants
+[23:00:46] [main/INFO]: [CommonLoader] Running VillagersFollowEmeraldBlocks
+[23:00:46] [main/INFO]: [CommonLoader] Running Woodcutting
+[23:00:46] [main/INFO]: [CommonLoader] Running Lumberjacks
+[23:00:47] [main/INFO]: Loaded config for: chunksending.json
+[23:00:47] [main/INFO]: chunksending mod initialized
+[23:00:47] [main/INFO]: Loading Collective version 7.61.
+[23:00:47] [main/INFO]: Connectivity initialized
+[23:00:47] [main/INFO]: fabric loader environment detected
+[23:00:47] [main/INFO]: Loaded config for: cupboard.json
+[23:00:47] [main/INFO]: Constructing common components for cutthrough:main
+[23:00:47] [main/INFO]: Enabled 34 bug fixes: [MC-2025, MC-7569, MC-8187, MC-14923, MC-30391, MC-31819, MC-69216, MC-72151, MC-88371, MC-89146, MC-90084, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-124117, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-193343, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[23:00:47] [main/INFO]: Successfully Debugify'd your game!
+[23:00:47] [main/INFO]: Deserializing DDConfig from './config/deeperdarker.json5'
+[23:00:47] [main/INFO]: Loaded DEUF Refabricated Config
+[23:00:47] [main/INFO]: Constructing common components for diagonalblocks:main
+[23:00:47] [main/INFO]: Constructing common components for diagonalfences:main
+[23:00:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 14ms
+[23:00:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 12ms
+[23:00:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 33ms
+[23:00:47] [main/INFO]: [DRIPPY LOADING SCREEN] Loading v3.0.2 in server-side mode on FABRIC!
+[23:00:47] [main/INFO]: Constructing common components for easyanvils:main
+[23:00:47] [main/INFO]: Constructing common components for easymagic:main
+[23:00:47] [main/INFO]: [bclib] Added Config edenring.blocks to auto sync (file hash)
+[23:00:47] [main/INFO]: [bclib] Added Config edenring.biomes to auto sync (file hash)
+[23:00:47] [main/INFO]: [bclib] Added Config edenring.items to auto sync (file hash)
+[23:00:47] [main/INFO]: [bclib] Added Config edenring.recipes to auto sync (file hash)
+[23:00:47] [main/INFO]: [bclib] Added Config edenring.entities to auto sync (file hash)
+[23:00:47] [main/INFO]: Loaded EveryCompat Another Furniture Module
+[23:00:47] [main/INFO]: Loaded EveryCompat Chipped Module
+[23:00:47] [main/INFO]: Loaded EveryCompat Decorative Blocks Module
+[23:00:47] [main/INFO]: Loaded EveryCompat Farmersdelight Module
+[23:00:47] [main/INFO]: Loaded EveryCompat Friendsandfoes Module
+[23:00:47] [main/INFO]: Loaded EveryCompat Hearth And Home Module
+[23:00:47] [main/INFO]: Loaded EveryCompat Twigs Module
+[23:00:47] [main/INFO]: [FANCYMENU] Loading v3.2.3 in server-side mode on FABRIC!
+[23:00:47] [main/INFO]: Farmer's Knives loaded!
+[23:00:47] [main/INFO]: Initialized Frostiful!
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:force_save
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:create_object
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:copy_quest
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:sync_structures_request
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbquests:request_team_data
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbteams:send_message
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbteams:create_party
+[23:00:47] [main/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[23:00:47] [main/INFO]: Is initializing.
+[23:00:47] [main/INFO]: Has successfully been initialized.
+[23:00:48] [main/INFO]: Initializing hybrid-aquatic
+[23:00:48] [main/ERROR]: No data fixer registered for hybrid-aquatic:anemone
+[23:00:48] [main/ERROR]: No data fixer registered for hybrid-aquatic:giant_clam
+[23:00:48] [main/ERROR]: No data fixer registered for hybrid-aquatic:message_in_a_bottle
+[23:00:48] [main/ERROR]: No data fixer registered for hybrid-aquatic:buoy
+[23:00:48] [main/ERROR]: No data fixer registered for hybrid-aquatic:hydrothermal_vent
+[23:00:48] [main/ERROR]: No data fixer registered for hybrid-aquatic:tube_sponge
+[23:00:48] [ForkJoinPool.commonPool-worker-1/INFO]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 2.0.15.
+[23:00:48] [main/INFO]: Constructing common components for illagerinvasion:main
+[23:00:48] [main/INFO]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[23:00:48] [main/INFO]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[23:00:48] [main/INFO]: [jamlib] Mod initialized!
+[23:00:48] [main/INFO]: Processing 3 KiwiModule annotations
+[23:00:48] [main/INFO]: Module [kiwi:contributors] initialized
+[23:00:48] [main/INFO]: Module [snowrealmagic:core] initialized
+[23:00:48] [main/INFO]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
+[23:00:48] [main/INFO]: Module [kiwi:data] initialized
+[23:00:48] [main/INFO]: 		recipe_serializer: 3
+[23:00:48] [main/INFO]: [KONKRETE] Successfully initialized!
+[23:00:48] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[23:00:48] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use Java
+[23:00:48] [main/INFO]: Constructing common components for leavesbegone:main
+[23:00:48] [main/INFO]: [LMFT]: Loaded Config File!
